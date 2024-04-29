@@ -1,0 +1,11 @@
+validation.json
+.venv
+predict.py
+train.py
+lightning_logs
+data\raw\dataset.tsv
+data\raw\src.txt
+data\raw\tar.txt
+data\raw\text.json
+data\raw\train.json
+data\raw\validation.json

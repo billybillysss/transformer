@@ -1,0 +1,4 @@
+sentencepiece
+torch
+pytorch_lightning
+sacrebleu

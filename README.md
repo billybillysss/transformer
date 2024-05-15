@@ -3,7 +3,7 @@
 ## Introduction 👋
 Welcome to my GitHub repository where I've embarked on a journey to deepen my understanding of transformers, specifically the architecture introduced in the groundbreaking paper "Attention Is All You Need". By taking a "learn by doing" approach, I've constructed a transformer from scratch which allowed me to thoroughly grasp various concepts such as encoders, decoders, and the intricate mechanics of attention mechanisms.
 
-This hands-on project has been immensely beneficial in solidifying my knowledge and skills pertaining to the transformer architecture. I invite you to explore my repository, and perhaps, learn together with me.
+This hands-on project has been immensely beneficial in solidifying my knowledge and skills pertaining to the transformer architecture.
 
 ## Project Structure and Descriptions 📁
 This section outlines the file structure of the program and provides descriptions for each component of the repository:
@@ -42,6 +42,4 @@ To get started with this transformer model:
 5. Execute `pltrain.py` to start the training process.
 6. Use `predict.ipynb` to validate the performance of your trained model.
 
-Remember, this project is not just about running code—it's an educational endeavor aimed at understanding transformers at a granular level. Don't rush through the steps; take your time to explore and comprehend each one.
-
-I hope this repository aids you in your quest to learn about machine learning, transformers, and the wonders of attention mechanisms. Happy coding and learning! 😊
+Happy coding and learning! 😊
